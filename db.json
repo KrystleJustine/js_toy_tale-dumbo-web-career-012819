@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 69
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 14
     },
     {
       "id": 3,
@@ -46,7 +46,25 @@
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "likes": 4
+    },
+    {
+      "name": "Mike",
+      "image": "https://cdn.shopify.com/s/files/1/0584/3841/products/100-polyester-godzilla-phunny-plush-1_2048x.jpg?v=1527651422",
+      "likes": 13,
+      "id": 9
+    },
+    {
+      "name": "Woody Woodpecker",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61B3oKXZY%2BL._SY606_.jpg",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "slinky",
+      "image": "https://steemitimages.com/DQmRH5Bu3AFkdSTWc6cUZd44wVaPcXnZBL14SwPavJdtbEe/slinky.jpg",
+      "likes": 3,
+      "id": 11
     }
   ]
 }
